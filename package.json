@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "gulp",
-    "build": "webpack"
+    "build": ""
   },
   "author": "http://colorlib.com",
   "license": "CC-BY-3.0",
