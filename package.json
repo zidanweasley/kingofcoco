@@ -4,7 +4,8 @@
   "description": "Famie - Farm Services &amp; Organic Food Store Template",
   "main": "index.js",
   "scripts": {
-    "start": "gulp"
+    "start": "gulp",
+    "build": "CI= npm run build"
   },
   "author": "http://colorlib.com",
   "license": "CC-BY-3.0",
