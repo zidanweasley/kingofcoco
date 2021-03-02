@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "gulp",
-    "build": "CI= npm run build"
+    "build": "npm run build"
   },
   "author": "http://colorlib.com",
   "license": "CC-BY-3.0",
