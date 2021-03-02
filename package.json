@@ -2,7 +2,7 @@
   "name": "famie-farm-services-and-organic-food-store-template",
   "version": "1.0.0",
   "description": "Famie - Farm Services &amp; Organic Food Store Template",
-  "main": "index.js",
+ 
   "scripts": {
     "start": "gulp",
     "build": "webpack"
